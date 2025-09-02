@@ -61,123 +61,33 @@ h1 {
     color: black;
 }
 
-/* ここから各テーブルの位置を個別に設定 */
-#table1 {
-    top: 480vh;
-    left: 850vw;
-}
+/* 左側の縦に並んだグループ */
+#table19 { top: 400px; left: 50px; }
+#table18 { top: 400px; left: 160px; }
+#table21 { top: 280px; left: 50px; }
+#table20 { top: 280px; left: 160px; }
+#table23 { top: 160px; left: 50px; }
+#table22 { top: 160px; left: 160px; }
+#table25 { top: 40px; left: 50px; }
+#table24 { top: 40px; left: 160px; }
 
-#table2 {
-    top: 360vh;
-    left: 850vw;
-}
+/* 中央の不規則なグループ */
+#table17 { top: 400px; left: 290px; }
+#table16 { top: 400px; left: 400px; }
+#table14 { top: 400px; left: 510px; }
+#table11 { top: 400px; left: 620px; }
+#table8 { top: 400px; left: 730px; }
+#table15 { top: 280px; left: 510px; }
+#table12 { top: 280px; left: 620px; }
+#table9 { top: 280px; left: 730px; }
+#table13 { top: 160px; left: 510px; }
+#table10 { top: 160px; left: 620px; }
+#table7 { top: 40px; left: 550px; }
+#table6 { top: 40px; left: 660px; }
 
-#table3 {
-    top: 240vh;
-    left: 850vw;
-}
-
-#table4 {
-    top: 120px;
-    left: 850px;
-}
-#table5 {
-    top: 10px;
-    left: 850px;
-}
-
-#table6 {
-    top: 10px;
-    left: 720px;
-}
-
-#table7 {
-    top: 10px;
-    left: 590px;
-}
-
-#table8 {
-    top: 480px;
-    left: 720px;
-}
-#table9 {
-    top: 360px;
-    left: 720px;
-}
-
-#table10 {
-    top: 240px;
-    left: 720px;
-}
-
-#table11 {
-    top: 480px;
-    left: 590px;
-}
-
-#table12 {
-    top: 360px;
-    left: 590px;
-}
-#table13 {
-    top: 240px;
-    left: 590px;
-}
-
-#table14 {
-    top: 480px;
-    left: 460px;
-}
-
-#table15 {
-    top: 360px;
-    left: 460px;
-}
-
-#table16 {
-    top: 480px;
-    left: 330px;
-}
-
-#table17 {
-    top: 360px;
-    left: 330px;
-}
-#table18 {
-    top: 480px;
-    left: 200px;
-}
-
-#table19 {
-    top: 480px;
-    left: 70px;
-}
-
-#table20 {
-    top: 360px;
-    left: 200px;
-}
-
-#table21 {
-    top: 360px;
-    left: 70px;
-}
-#table22 {
-    top: 240px;
-    left: 200px;
-}
-
-#table23 {
-    top: 240px;
-    left: 70px;
-}
-
-#table24 {
-    top: 120px;
-    left: 200px;
-}
-
-#table25 {
-    top: 120px;
-    left: 70px;
-}
+/* 右側の縦に並んだグループ */
+#table5 { top: 40px; right: 50px; }
+#table4 { top: 160px; right: 50px; }
+#table3 { top: 280px; right: 50px; }
+#table2 { top: 400px; right: 50px; }
+#table1 { top: 520px; right: 50px; }
