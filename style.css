@@ -1,0 +1,165 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+/* フロアマップ全体を配置するための設定 */
+.seat-container {
+    position: relative;
+    width: 1000px; /* フロアマップの幅を調整 */
+    height: 600px; /* フロアマップの高さを調整 */
+    border: 2px solid #333;
+    background-color: #f0f0f0;
+}
+
+.seat {
+    width: 100px;
+    height: 100px;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    /* 各テーブルを自由に配置するための設定 */
+    position: absolute;
+}
+
+.empty {
+    background-color: green; /* 空席は緑 */
+    color: white;
+}
+
+.occupied {
+    background-color: red; /* 在籍は赤 */
+    color: white;
+}
+
+.cleaning {
+    background-color: yellow; /* お直しは黄色 */
+    color: black;
+}
+
+/* ここから各テーブルの位置を個別に設定 */
+#table1 {
+    top: 480px;
+    left: 850px;
+}
+
+#table2 {
+    top: 360px;
+    left: 850px;
+}
+
+#table3 {
+    top: 240px;
+    left: 850px;
+}
+
+#table4 {
+    top: 120px;
+    left: 850px;
+}
+#table5 {
+    top: 10px;
+    left: 850px;
+}
+
+#table6 {
+    top: 10px;
+    left: 720px;
+}
+
+#table7 {
+    top: 10px;
+    left: 590px;
+}
+
+#table8 {
+    top: 480px;
+    left: 720px;
+}
+#table9 {
+    top: 360px;
+    left: 720px;
+}
+
+#table10 {
+    top: 240px;
+    left: 720px;
+}
+
+#table11 {
+    top: 480px;
+    left: 590px;
+}
+
+#table12 {
+    top: 360px;
+    left: 590px;
+}
+#table13 {
+    top: 240px;
+    left: 590px;
+}
+
+#table14 {
+    top: 480px;
+    left: 460px;
+}
+
+#table15 {
+    top: 360px;
+    left: 460px;
+}
+
+#table16 {
+    top: 480px;
+    left: 330px;
+}
+
+#table17 {
+    top: 360px;
+    left: 330px;
+}
+#table18 {
+    top: 480px;
+    left: 200px;
+}
+
+#table19 {
+    top: 480px;
+    left: 70px;
+}
+
+#table20 {
+    top: 360px;
+    left: 200px;
+}
+
+#table21 {
+    top: 360px;
+    left: 70px;
+}
+#table22 {
+    top: 240px;
+    left: 200px;
+}
+
+#table23 {
+    top: 240px;
+    left: 70px;
+}
+
+#table24 {
+    top: 120px;
+    left: 200px;
+}
+
+#table25 {
+    top: 120px;
+    left: 70px;
+}
