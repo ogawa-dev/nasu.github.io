@@ -6,6 +6,17 @@ body {
     margin-top: 0px;
 }
 
+h1 {
+    margin: 0; /* h1タグの上下左右の余白を全て0にする */
+    padding: 10px 0; /* 必要であれば、h1の内側に少しだけ上下の余白（padding）を入れると見やすいこともあります */
+}
+
+.seat-container {
+    /* ... 他の設定 ... */
+    margin-top: 0; /* もし設定されていればこれも0に */
+    /* ... 他の設定 ... */
+}
+
 /* フロアマップ全体を配置するための設定 */
 .seat-container {
     position: relative;
