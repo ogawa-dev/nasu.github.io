@@ -9,8 +9,8 @@ body {
 /* フロアマップ全体を配置するための設定 */
 .seat-container {
     position: relative;
-    width: 95vw; /* 画面幅の95%に設定 */
-    height: 95vh; /* 画面高さの95%に設定 */
+    width: 90vw; /* 画面幅の95%に設定 */
+    height: 90vh; /* 画面高さの95%に設定 */
     border: 2px solid #333;
     background-color: #f0f0f0;
 }
