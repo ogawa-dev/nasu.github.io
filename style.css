@@ -70,7 +70,6 @@ h1 {
     color: black;
 }
 
-/* 左側の縦に並んだグループ */
 #table19 { top: 510px; left: 20px; }
 #table18 { top: 510px; left: 130px; }
 #table21 { top: 390px; left: 20px; }
@@ -80,7 +79,7 @@ h1 {
 #table25 { top: 20px; left: 20px; }
 #table24 { top: 20px; left: 130px; }
 
-/* 中央の不規則なグループ */
+
 #table17 { top: 270px; left: 270px; }
 #table16 { top: 390px; left: 270px; }
 #table14 { top: 390px; left: 380px; }
