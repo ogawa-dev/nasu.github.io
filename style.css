@@ -80,18 +80,18 @@ h1 {
 #table24 { top: 20px; left: 130px; }
 
 
-#table17 { top: 270px; left: 270px; }
-#table16 { top: 390px; left: 270px; }
-#table14 { top: 390px; left: 380px; }
-#table11 { top: 390px; left: 490px; }
-#table8 { top: 390px; left: 600px; }
-#table15 { top: 270px; left: 380px; }
-#table12 { top: 270px; left: 490px; }
-#table9 { top: 270px; left: 600px; }
-#table13 { top: 150px; left: 490px; }
-#table10 { top: 150px; left: 600px; }
-#table7 { top: 30px; left: 490px; }
-#table6 { top: 30px; left: 600px; }
+#table17 { top: 270px; left: 300px; }
+#table16 { top: 390px; left: 300px; }
+#table14 { top: 390px; left: 410px; }
+#table11 { top: 390px; left: 510px; }
+#table8 { top: 390px; left: 630px; }
+#table15 { top: 270px; left: 410px; }
+#table12 { top: 270px; left: 510px; }
+#table9 { top: 270px; left: 630px; }
+#table13 { top: 150px; left: 510px; }
+#table10 { top: 150px; left: 630px; }
+#table7 { top: 30px; left: 510px; }
+#table6 { top: 30px; left: 630px; }
 
 /* 右側の縦に並んだグループ */
 #table5 { top: 5px; right: 50px; }
