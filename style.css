@@ -34,8 +34,8 @@ h1 {
     position: absolute;
 }
 .seat {
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     border: none;
     border-radius: 8px;
     font-size: 20px;
