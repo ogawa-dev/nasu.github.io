@@ -26,6 +26,15 @@ h1 {
     background-color: #f0f0f0;
 }
 
+.seat-container {
+    width: 900px;
+    height: 500px;
+}
+.seat {
+    width: 100px;
+    height: 60px;
+}
+
 .seat {
     width: 10vw;  /* 幅を画面幅の10%に設定 */
     height: 6vh;  /* 高さを画面高さの6%に設定 */
