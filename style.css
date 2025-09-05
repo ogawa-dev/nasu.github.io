@@ -62,28 +62,28 @@ h1 {
 }
 
 /* 左側の縦に並んだグループ */
-#table19 { top: 510px; left: 50px; }
-#table18 { top: 510px; left: 160px; }
-#table21 { top: 390px; left: 50px; }
-#table20 { top: 390px; left: 160px; }
-#table23 { top: 270px; left: 50px; }
-#table22 { top: 270px; left: 160px; }
-#table25 { top: 150px; left: 50px; }
-#table24 { top: 150px; left: 160px; }
+#table19 { top: 510px; left: 30px; }
+#table18 { top: 510px; left: 140px; }
+#table21 { top: 390px; left: 30px; }
+#table20 { top: 390px; left: 140px; }
+#table23 { top: 270px; left: 30px; }
+#table22 { top: 270px; left: 140px; }
+#table25 { top: 150px; left: 30px; }
+#table24 { top: 150px; left: 140px; }
 
 /* 中央の不規則なグループ */
-#table17 { top: 390px; left: 290px; }
-#table16 { top: 390px; left: 400px; }
-#table14 { top: 390px; left: 510px; }
-#table11 { top: 390px; left: 620px; }
-#table8 { top: 390px; left: 730px; }
-#table15 { top: 270px; left: 510px; }
-#table12 { top: 270px; left: 620px; }
-#table9 { top: 270px; left: 730px; }
-#table13 { top: 150px; left: 510px; }
-#table10 { top: 150px; left: 620px; }
-#table7 { top: 30px; left: 550px; }
-#table6 { top: 30px; left: 660px; }
+#table17 { top: 390px; left: 270px; }
+#table16 { top: 390px; left: 380px; }
+#table14 { top: 390px; left: 490px; }
+#table11 { top: 390px; left: 600px; }
+#table8 { top: 390px; left: 710px; }
+#table15 { top: 270px; left: 490px; }
+#table12 { top: 270px; left: 600px; }
+#table9 { top: 270px; left: 710px; }
+#table13 { top: 150px; left: 490px; }
+#table10 { top: 150px; left: 600px; }
+#table7 { top: 30px; left: 530px; }
+#table6 { top: 30px; left: 640px; }
 
 /* 右側の縦に並んだグループ */
 #table5 { top: 30px; right: 50px; }
