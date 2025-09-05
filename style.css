@@ -94,8 +94,8 @@ h1 {
 #table6 { top: 30px; left: 600px; }
 
 /* 右側の縦に並んだグループ */
-#table5 { top: 30px; right: 50px; }
-#table4 { top: 150px; right: 50px; }
-#table3 { top: 270px; right: 50px; }
-#table2 { top: 390px; right: 50px; }
-#table1 { top: 510px; right: 50px; }
+#table5 { top: 5px; right: 50px; }
+#table4 { top: 105px; right: 50px; }
+#table3 { top: 205px; right: 50px; }
+#table2 { top: 305px; right: 50px; }
+#table1 { top: 405px; right: 50px; }
