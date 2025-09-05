@@ -75,10 +75,10 @@ h1 {
 #table18 { top: 510px; left: 130px; }
 #table21 { top: 390px; left: 20px; }
 #table20 { top: 390px; left: 130px; }
-#table23 { top: 270px; left: 20px; }
-#table22 { top: 270px; left: 130px; }
-#table25 { top: 150px; left: 20px; }
-#table24 { top: 150px; left: 130px; }
+#table23 { top: 20px; left: 240px; }
+#table22 { top: 20px; left: 360px; }
+#table25 { top: 20px; left: 20px; }
+#table24 { top: 20px; left: 130px; }
 
 /* 中央の不規則なグループ */
 #table17 { top: 270px; left: 270px; }
